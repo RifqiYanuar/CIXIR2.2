@@ -11,13 +11,13 @@
 			<div class="body">
 			<div class="row">
 				<div class="col-md-4">
-					<img src="<?=base_url('assets/aku.JPG')?>" style="width:160px; height:140px; margin-left: 18px; ">
+					<img src="<?=base_url('assets/aku.jpeg')?>" style="width:160px; height:140px; margin-left: 18px; ">
 				</div>
 				<div class="col-md-8">
 					<table class="table table-hover table-striped" style="font-size: 17px; margin-left: -200px;">
 						<tr>
 							<td>
-								Nama : Nofela Sogi Nurrohman
+								Nama : RIfqi Yanuar Almuzaki M
 							</td>
 						</tr>
 						<tr>
@@ -32,7 +32,7 @@
 						</tr>
 						<tr>
 							<td>
-								Alamat : Parakan, Trenggalek
+								Alamat : Gombleh, Lumajang
 							</td>
 						</tr>
 					</table>
@@ -42,4 +42,3 @@
 		</div>
 
 	</div>
-	

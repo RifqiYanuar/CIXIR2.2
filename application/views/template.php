@@ -7,7 +7,7 @@
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
 
-    <title>DASHGUM - FREE Bootstrap Admin Template</title>
+    <title>AMBON PROFIL</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?= base_url()?>assets/css/bootstrap.css" rel="stylesheet">
@@ -15,14 +15,14 @@
     <link href="<?= base_url()?>assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="<?= base_url()?>assets/css/zabuto_calendar.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url()?>assets/js/gritter/css/jquery.gritter.css" />
-    <link rel="stylesheet" type="text/css" href="<?= base_url()?>assets/lineicons/style.css">    
-    
+    <link rel="stylesheet" type="text/css" href="<?= base_url()?>assets/lineicons/style.css">
+
     <!-- Custom styles for this template -->
     <link href="<?= base_url()?>assets/css/style.css" rel="stylesheet">
     <link href="<?= base_url()?>assets/css/style-responsive.css" rel="stylesheet">
 
     <script src="<?= base_url()?>assets/js/chart-master/Chart.js"></script>
-    
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -42,7 +42,7 @@
       <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
   </div>
             <!--logo start-->
-            <a href="<?= base_url()?>index.html" class="logo"><b>DASHGUM PROFIL</b></a>
+            <a href="<?= base_url()?>index.html" class="logo"><b>AMBON BISNIS</b></a>
             <!--logo end-->
             <div class="nav notify-row" id="top_menu">
                 <!--  notification start -->
@@ -56,17 +56,17 @@
                         <ul class="dropdown-menu extended tasks-bar">
                             <div class="notify-arrow notify-arrow-green"></div>
                             <li>
-                                <p class="green">You have 4 pending tasks</p>
+                                <p class="green">Kamu punya 4 diagram</p>
                             </li>
                             <li>
                                 <a href="index.html#">
                                     <div class="task-info">
-                                        <div class="desc">DashGum Admin Panel</div>
-                                        <div class="percent">40%</div>
+                                        <div class="desc">Dikunjungi</div>
+                                        <div class="percent">95%</div>
                                     </div>
                                     <div class="progress progress-striped">
-                                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-                                            <span class="sr-only">40% Complete (success)</span>
+                                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                                            <span class="sr-only">95% Complete</span>
                                         </div>
                                     </div>
                                 </a>
@@ -74,12 +74,12 @@
                             <li>
                                 <a href="<?= base_url()?>index.html#">
                                     <div class="task-info">
-                                        <div class="desc">Database Update</div>
-                                        <div class="percent">60%</div>
+                                        <div class="desc">Disukai</div>
+                                        <div class="percent">90%</div>
                                     </div>
                                     <div class="progress progress-striped">
-                                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                            <span class="sr-only">60% Complete (warning)</span>
+                                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                                            <span class="sr-only">90% Complete </span>
                                         </div>
                                     </div>
                                 </a>
@@ -87,7 +87,7 @@
                             <li>
                                 <a href="<?= base_url()?>index.html#">
                                     <div class="task-info">
-                                        <div class="desc">Product Development</div>
+                                        <div class="desc">Dibeli</div>
                                         <div class="percent">80%</div>
                                     </div>
                                     <div class="progress progress-striped">
@@ -100,18 +100,18 @@
                             <li>
                                 <a href="<?= base_url()?>index.html#">
                                     <div class="task-info">
-                                        <div class="desc">Payments Sent</div>
-                                        <div class="percent">70%</div>
+                                        <div class="desc">Tidak Disukai</div>
+                                        <div class="percent">10%</div>
                                     </div>
                                     <div class="progress progress-striped">
-                                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
-                                            <span class="sr-only">70% Complete (Important)</span>
+                                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
+                                            <span class="sr-only">10% Complete </span>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li class="external">
-                                <a href="#">See All Tasks</a>
+                                <a href="#">Baca semua</a>
                             </li>
                         </ul>
                     </li>
@@ -120,63 +120,63 @@
                     <li id="header_inbox_bar" class="dropdown">
                         <a data-toggle="dropdown" class="dropdown-toggle" href="<?= base_url()?>index.html#">
                             <i class="fa fa-envelope-o"></i>
-                            <span class="badge bg-theme">5</span>
+                            <span class="badge bg-theme">99</span>
                         </a>
                         <ul class="dropdown-menu extended inbox">
                             <div class="notify-arrow notify-arrow-green"></div>
                             <li>
-                                <p class="green">You have 5 new messages</p>
+                                <p class="green">Kamu punya 99 pesan baru</p>
                             </li>
                             <li>
                                 <a href="<?= base_url()?>index.html#">
-                                    <span class="photo"><img alt="avatar" src="<?= base_url()?>assets/img/ui-zac.jpg"></span>
+                                    <span class="photo"><img alt="" src="<?= base_url()?>assets/kaka.jpeg"></span>
                                     <span class="subject">
-                                    <span class="from">Zac Snider</span>
-                                    <span class="time">Just now</span>
+                                    <span class="from">Kaka Slank</span>
+                                    <span class="time">Baru Saja</span>
                                     </span>
                                     <span class="message">
-                                        Hi mate, how is everything?
+                                        Kapan COD bang mbon?
                                     </span>
                                 </a>
                             </li>
                             <li>
                                 <a href="<?= base_url()?>index.html#">
-                                    <span class="photo"><img alt="avatar" src="<?= base_url()?>assets/img/ui-divya.jpg"></span>
+                                    <span class="photo"><img alt="" src="<?= base_url()?>assets/bimbim.jpeg"></span>
                                     <span class="subject">
-                                    <span class="from">Divya Manian</span>
-                                    <span class="time">40 mins.</span>
+                                    <span class="from">Bimbim Slank</span>
+                                    <span class="time">10 menit.</span>
                                     </span>
                                     <span class="message">
-                                     Hi, I need your help with this.
+                                        Barang udah masuk bang tanks
                                     </span>
                                 </a>
                             </li>
                             <li>
                                 <a href="<?= base_url()?>index.html#">
-                                    <span class="photo"><img alt="avatar" src="<?= base_url()?>assets/img/ui-danro.jpg"></span>
+                                    <span class="photo"><img alt="" src="<?= base_url()?>assets/abde.jpeg"></span>
                                     <span class="subject">
-                                    <span class="from">Dan Rogers</span>
-                                    <span class="time">2 hrs.</span>
+                                    <span class="from">Abde Negara</span>
+                                    <span class="time">2 Jam.</span>
                                     </span>
                                     <span class="message">
-                                        Love your new Dashboard.
+                                        Bang kirim barang 1 minggu lagi y
                                     </span>
                                 </a>
                             </li>
                             <li>
                                 <a href="<?= base_url()?>index.html#">
-                                    <span class="photo"><img alt="avatar" src="<?= base_url()?>assets/img/ui-sherman.jpg"></span>
+                                    <span class="photo"><img alt="" src="<?= base_url()?>assets/ridho.jpeg"></span>
                                     <span class="subject">
-                                    <span class="from">Dj Sherman</span>
-                                    <span class="time">4 hrs.</span>
+                                    <span class="from">Ridho Slank</span>
+                                    <span class="time">4 Jam.</span>
                                     </span>
                                     <span class="message">
-                                        Please, answer asap.
+                                        Barang mulus sampe tujuan makasih bang!
                                     </span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?= base_url()?>index.html#">See all messages</a>
+                                <a href="<?= base_url()?>index.html#">Baca semua</a>
                             </li>
                         </ul>
                     </li>
@@ -186,12 +186,12 @@
             </div>
             <div class="top-menu">
             	<ul class="nav pull-right top-menu">
-                    <li><a class="logout" href="<?= base_url()?>login.html">Logout</a></li>
+                    <li><a class="logout" href="<?= base_url()?>login.html">Keluar</a></li>
             	</ul>
             </div>
         </header>
       <!--header end-->
-      
+
       <!-- **********************************************************************************************************************************************************
       MAIN SIDEBAR MENU
       *********************************************************************************************************************************************************** -->
@@ -200,14 +200,14 @@
           <div id="sidebar"  class="nav-collapse ">
               <!-- sidebar menu start-->
               <ul class="sidebar-menu" id="nav-accordion">
-              
-              	  <p class="centered"><a href="<?= base_url()?>profile.html"><img src="<?=base_url()?>assets/img/ui-sam.jpg" class="img-circle" width="60"></a></p>
-              	  <h5 class="centered">Nofela Sogi Nurrohman</h5>
-              	  	
+
+              	  <p class="centered"><a href="<?= base_url()?>profile.html"><img src="<?=base_url()?>assets/saya.jpg" class="img-circle" width="50"></a></p>
+              	  <h5 class="centered">Rifqi Yanuar Almuzaki M</h5>
+
                     <li class="active">
                     <a href="<?=base_url('index.php/user')?>">
                         <p class="material-icons" ><img src="<?=base_url()?>assets/house.png" class="img-circle" style="width: 30px;"><div style="margin-right: 85px; margin-top: -33px; font-size: 15px; float: right;">Home</div></p>
-                     
+
                     </a>
                 </li>
 
@@ -217,14 +217,26 @@
                       </a>
                   </li>
 
-                  
+                  <li class="active">
+                      <a href="<?=base_url('index.php/gallery')?>">
+                      <p class="material-icons" ><img src="<?=base_url()?>assets/img/galery.png" class="img-circle" style="width: 30px;"><div style="margin-right: 90px; margin-top: -33px; font-size: 15px; float: right;">Galery</div></p>
+                      </a>
+                  </li>
+
+                  <li class="active">
+                      <a href="<?=base_url('index.php/event')?>">
+                      <p class="material-icons" ><img src="<?=base_url()?>assets/img/event.png" class="img-circle" style="width: 30px;"><div style="margin-right: 90px; margin-top: -33px; font-size: 15px; float: right;">Event</div></p>
+                      </a>
+                  </li>
+
+
 
               </ul>
               <!-- sidebar menu end-->
           </div>
       </aside>
       <!--sidebar end-->
-      
+
       <!-- **********************************************************************************************************************************************************
       MAIN CONTENT
       *********************************************************************************************************************************************************** -->
@@ -244,7 +256,7 @@
       <!--footer start-->
       <footer class="site-footer" style="margin-top: 200px;">
           <div class="text-center">
-              2014 - Alvarez.is
+              2019- Rifqi Yanuar
           </div>
       </footer>
       <!--footer end-->
@@ -262,21 +274,21 @@
 
     <!--common script for all pages-->
     <script src="<?= base_url()?>assets/js/common-scripts.js"></script>
-    
+
     <script type="text/javascript" src="<?= base_url()?>assets/js/gritter/js/jquery.gritter.js"></script>
     <script type="text/javascript" src="<?= base_url()?>assets/js/gritter-conf.js"></script>
 
     <!--script for this page-->
-    <script src="<?= base_url()?>assets/js/sparkline-chart.js"></script>    
-	<script src="<?= base_url()?>assets/js/zabuto_calendar.js"></script>	
-	
+    <script src="<?= base_url()?>assets/js/sparkline-chart.js"></script>
+	<script src="<?= base_url()?>assets/js/zabuto_calendar.js"></script>
+
 	<script type="text/javascript">
         $(document).ready(function () {
         var unique_id = $.gritter.add({
             // (string | mandatory) the heading of the notification
-            title: 'Welcome to Dashgum!',
+            title: 'Selamat Datang di Ambon Bisnis!',
             // (string | mandatory) the text inside the notification
-            text: 'Hover me to enable the Close Button. You can hide the left sidebar clicking on the button next to the logo. Free version for <a href="<?= base_url()?>http://blacktie.co" target="_blank" style="color:#ffd777">BlackTie.co</a>.',
+            text: 'Semoga anda puas dengan web yang telah saya buat,anda dapat menikmati galery dan event saat ini.Terima Kasih <a href="<?= base_url()?>http://blacktie.co" target="_blank" style="color:#ffd777">BlackTie.co</a>.',
             // (string | optional) the image to display on the left
             image: '<?= base_url()?>assets/img/ui-sam.jpg',
             // (bool | optional) if you want it to fade out on its own or just sit there
@@ -290,7 +302,7 @@
         return false;
         });
 	</script>
-	
+
 	<script type="application/javascript">
         $(document).ready(function () {
             $("#date-popover").popover({html: true, trigger: "manual"});
@@ -298,7 +310,7 @@
             $("#date-popover").click(function (e) {
                 $(this).hide();
             });
-        
+
             $("#my-calendar").zabuto_calendar({
                 action: function () {
                     return myDateFunction(this.id, false);
@@ -316,8 +328,8 @@
                 ]
             });
         });
-        
-        
+
+
         function myNavFunction(id) {
             $("#date-popover").hide();
             var nav = $("#" + id).data("navigation");
@@ -325,7 +337,7 @@
             console.log('nav ' + nav + ' to: ' + to.month + '/' + to.year);
         }
     </script>
-  
+
 
   </body>
 </html>
